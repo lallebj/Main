@@ -16,11 +16,6 @@ public class MainActivity extends AppCompatActivity {
     private ImageView mImageView;
     private int index = 0;
 
-    private String button_1_DA = "Næste";
-    private String button_2_DA = "Tilbage";
-    private String button_1_EN = "Next";
-    private String button_2_EN = "Prev";
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
